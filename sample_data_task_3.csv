@@ -1,0 +1,16 @@
+Age,Gender,EstimatedSalary,Purchased
+22,Female,19000,0
+35,Male,20000,0
+26,Female,43000,1
+27,Male,57000,1
+32,Male,86000,1
+45,Female,78000,0
+33,Male,120000,1
+40,Female,60000,0
+36,Male,80000,1
+23,Female,35000,0
+30,Male,40000,0
+48,Female,90000,1
+50,Male,100000,1
+29,Female,61000,0
+31,Male,15000,0
